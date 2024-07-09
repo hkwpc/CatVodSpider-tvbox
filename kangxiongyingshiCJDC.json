@@ -1,6 +1,10 @@
 {
     "storeHouse": [
         {
+            "sourceName": "影用仓库->康兄",
+            "sourceUrl": "https://gitee.com/hkwpc/tvboxpzy/raw/master/kangxiongyingshiCK.josn"
+        },
+        {
             "sourceName": "影用仓库->欧歌",
             "sourceUrl": "http://tv.nxog.top/"
         },
