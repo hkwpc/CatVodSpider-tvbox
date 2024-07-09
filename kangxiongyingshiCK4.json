@@ -1,0 +1,36 @@
+{
+    "storeHouse": [
+        {
+            "sourceName": "影用仓库->欧歌",
+            "sourceUrl": "http://tv.nxog.top/"
+        },
+        {
+            "sourceName": "影用仓库->天微",
+            "sourceUrl": "https://tvkj.top/DC.txt"
+        },
+        {
+            "sourceName": "影用仓库->日后",
+            "sourceUrl": "http://rihou.vip:666"
+        },
+        {
+            "sourceName": "影用仓库->蜂蜜",
+            "sourceUrl": "http://fmys.top/online.json"
+        },
+        {
+            "sourceName": "影用仓库->云星",
+            "sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库/api.json"
+        },
+        {
+            "sourceName": "影用仓库->月光",
+            "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/d.txt"
+        },
+        {
+            "sourceName": "影用仓库->宝盒",
+            "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/dc2.json"
+        },
+        {
+            "sourceName": "影用仓库->朱师",
+            "sourceUrl": "https://d.kstore.space/download/5303/zhushifu/002.txt"
+        }
+    ]
+}
