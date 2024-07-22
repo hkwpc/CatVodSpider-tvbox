@@ -27,6 +27,10 @@
     {
       "url": "https://raw.gitcode.com/hkwpc/test/raw/test-patch-two/tvboxfl.txt",
       "name": "📀康兄多仓[FL线路6]"
+    }，
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hkwpc/tvbox-DY/main/flck.json",
+      "name": "📀康兄多仓[FL线路7]"
     }
   ]
 }
