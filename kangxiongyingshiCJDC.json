@@ -39,6 +39,10 @@
         {
             "sourceName": "影用仓库->摸鱼",
             "sourceUrl": "http://小鱼干.摸鱼儿.top"
+        },
+        {
+            "sourceName": "影用仓库->潇洒",
+            "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hkwpc/TVBox_warehouse/main/warehouse.txt"
         }
     ]
 }
