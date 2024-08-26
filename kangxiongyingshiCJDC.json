@@ -2,7 +2,7 @@
     "storeHouse": [
         {
             "sourceName": "影用仓库->康兄",
-            "sourceUrl": "https://gitee.com/hkwpc/tvboxpzy/raw/master/kangxiongyingshiCK.josn"
+            "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hkwpc/hkwpc-gao/gao-1/kangxiongyingshiCK.josn"
         },
         {
             "sourceName": "影用仓库->欧歌",
