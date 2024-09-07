@@ -1,8 +1,16 @@
 {
   "urls": [
-    {
-      "url": "http://我不是.摸鱼儿.top",
-      "name": "💎康兄多仓💎"
+           {
+      "url": "https://gitee.com/tv888/tv/raw/master/svip.json",
+      "name": "🚀天微影视VIP线🚀"
+    },
+        {
+      "url": "https://gitee.com/tv888/fl/raw/master/svip.json",
+      "name": "🚀飞龙影视"
+    },
+        {
+      "url": "https://gitlab.com/tvtg/qx/-/raw/main/svip.json",
+      "name": "🚀七星精选"
     },
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hkwpc/CatVodSpider-tvbox/main/json/18sexN.json",
