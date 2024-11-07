@@ -19,22 +19,14 @@
         {
             "sourceName": "影用仓库💖康兄5",
             "sourceUrl": "https://ghp.ci/https://raw.githubusercontent.com/hkwpc/tvboxzd/refs/heads/main/Stiletto/StoreHouse3.json"
-        },
-        {
-            "sourceName": "影用仓库💖云星",
-            "sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库/api.json"
-        },
+        }，
         {
             "sourceName": "影用仓库💖康兄6",
             "sourceUrl": "https://ghp.ci/https://raw.githubusercontent.com/hkwpc/tvboxzd/refs/heads/main/Stiletto/StoreHouse4.json"
         },
         {
             "sourceName": "影用仓库💖康兄7",
-            "sourceUrl": "https://ghp.ci/https://raw.githubusercontent.com/hkwpc/tvboxzd/refs/heads/main/Stiletto/StoreHouse5.json"
-        },
-        {
-            "sourceName": "影用仓库💖朱师",
-            "sourceUrl": "https://d.kstore.space/download/5303/zhushifu/002.txt"
+            "sourceUrl": "https://notabug.org/Tvbox123/TVBox-hd9211/raw/main/%e4%bc%98%e8%b4%a8.json"
         },
         {
             "sourceName": "影用仓库💖康兄8",
@@ -43,6 +35,15 @@
         {
             "sourceName": "影用仓库💖潇洒",
             "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hkwpc/TVBox_warehouse/main/warehouse.txt"
+        }，
+        {
+            "sourceName": "影用仓库💖云星",
+            "sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库/api.json"
+        },
+        {
+            "sourceName": "影用仓库💖朱师",
+            "sourceUrl": "https://d.kstore.space/download/5303/zhushifu/002.txt"
         }
+        {
     ]
 }
