@@ -2,35 +2,63 @@
   "urls": [
            {
       "url": "http://ok321.top/tv",
-      "name": "🚀OK-VIP线🚀"
+      "name": "🚀综合线路1"
     },
         {
-      "url": "https://gitee.com/tv888/fl/raw/master/svip.json",
-      "name": "🚀飞龙影视"
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/hkwpc/tvboxzd6/refs/heads/main/XC.json",
+      "name": "🚀综合线路2"
     },
         {
-      "url": "https://gitlab.com/tvtg/qx/-/raw/main/svip.json",
-      "name": "🚀七星精选"
-    }, 
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/hkwpc/tvboxzd15/refs/heads/main/TVbox2fomi.txt",
+      "name": "🚀综合线路3"
+    },
+    {
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/hkwpc/tvboxzd15/refs/heads/main/avnetwork18x.txt",
+      "name": "影用仓库💖[FL线路1]"
+    },
+    {
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/hkwpc/tvboxzd17/refs/heads/main/c.json",
+      "name": "影用仓库💖[FL线路2]"
+    },
+    {
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/hkwpc/tvboxzd25/refs/heads/main/18%2B.json",
+      "name": "影用仓库💖[FL线路3]"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hkwpc/tvboxzd27/refs/heads/main/video.json",
+      "name": "影用仓库💖[FL线路4]"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hkwpc/tvboxzd33/refs/heads/main/Myuse/18sex.txt",
+      "name": "影用仓库💖[FL线路5]"
+    },
+    {
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/hkwpc/tvboxzd15/refs/heads/bach/line2-many.json",
+      "name": "影用仓库💖[FL线路6]"
+    },
+    {
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/hkwpc/tvboxzd15/refs/heads/bach/line3-many.txt",
+      "name": "影用仓库💖[FL线路7]"
+    },
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hkwpc/CatVodSpider-tvbox/main/json/18sex.json",
-      "name": "📀康兄多仓[FL线路1]"
+      "name": "影用仓库💖[FL线路8]"
     },
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hkwpc/CatVodSpider-tvbox/main/json/18sexN.json",
-      "name": "📀康兄多仓[FL线路2]"
+      "name": "影用仓库💖[FL线路9]"
     },
- {
+    {
       "url": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
-      "name": "📀康兄多仓[FL线路3]"
+      "name": "影用仓库💖[FL线路10]"
     },
-{
+    {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hkwpc/tvbox-DY/main/thzx1.jsonn",
-      "name": "📀康兄多仓[FL线路4]"
+      "name": "影用仓库💖[FL线路11]"
     },
-{
+    {
       "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
-      "name": "📀康兄多仓[FL线路5]"
+      "name": "影用仓库💖[FL线路12]"
     }
   ]
 }
